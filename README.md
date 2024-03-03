@@ -1,2 +1,8 @@
-# Sway Config-1
- HOW DID I FIND THESE AGAIN I THOUGHT I LOST THESE TO TIEM?!?!??!/!/!?!??!/!/!/!/!?!/1/1?!/!/?!/!?!/?!/!
+# sway-dotfies
+Dependencies:
+Sway (sway swaybg swayidle swaylock xdg-desktop-portal-wlr xwayland )
+Waybar
+Foot
+Awesome Fonts
+Nerd Fonts
+Zsh

@@ -1,0 +1,8 @@
+#!/bin/sh
+# Set env variables when starting a wayland session
+export ANKI_WAYLAND=1
+export MOZ_ENABLE_WAYLAND=1
+export WLR_DRM_NO_MODIFIERS=1
+# For sway
+export XDG_CURRENT_DESKTOP=sway
+sway $@
